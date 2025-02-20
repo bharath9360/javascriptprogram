@@ -63,3 +63,45 @@
     font-weight: 700;
     margin: 10px;
 }
+.bg-new-container {
+    padding: 25px;
+    height: 120vh;
+    background-color: #dac0ff;
+}
+
+.top-head {
+    color: #690cb0;
+    font-size: 64px;
+}
+
+.img-size {
+    height: 50px;
+}
+
+.card-container {
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #9aa5b1;
+    background-color: #f2ebfe;
+}
+
+.submit-btn {
+    height: 43px;
+    width: 75px;
+    background-color: #690cb0;
+    color: #ffffff;
+    border-radius: 5px;
+    border-style: none;
+}
+
+.reset-btn {
+    height: 43px;
+    width: 75px;
+    border-radius: 5px;
+    border-style: none;
+}
+#quoteDisplay{
+    font-size: 16px;
+    color: #3e4c59;
+    font-weight:normal;
+}
